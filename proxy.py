@@ -6,7 +6,7 @@ from telebot import types, apihelper
 
 # --- AYARLAR ---
 # Sənin Bot Tokenin
-API_TOKEN = '8525524409:AAEQeFv29Sx7D70-bX0imqWnCi5b43feRbE'
+API_TOKEN = '8759525948:AAHXEv6EbWxXZOvBPG2ZV2VtamqbVRzK_mA'
 
 # Sənin Telegram ID-n (Admin)
 ADMIN_ID = 7754388468 
